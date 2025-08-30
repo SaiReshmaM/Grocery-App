@@ -1,2 +1,0 @@
-# Grocery-App
-MERN Project
